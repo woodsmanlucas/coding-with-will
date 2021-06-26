@@ -1,0 +1,28 @@
+flask-restful:
+https://flask-restful.readthedocs.io/en/latest/quickstart.html
+
+flask codacademy:
+https://www.codecademy.com/learn/introduction-to-flask/modules/introduction-to-flask/cheatsheet
+
+react:
+https://reactjs.org/
+
+sass & > *:
+ https://css-tricks.com/the-sass-ampersand/
+
+restful:
+https://www.w3schools.in/restful-web-services/rest-methods/
+
+cors:
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+
+flexbox:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+react forms:
+https://reactjs.org/docs/forms.html
+
+text field:
+https://material-ui.com/components/text-fields/
+
+
